@@ -1,6 +1,6 @@
 # C++ Basic Programs Checklist
 
-- [ ] Program 1: Hello World
+- [done] Program 1: Hello World
   - Dry run/Notes:
   
 - [ ] Program 2: Basic Input/Output
