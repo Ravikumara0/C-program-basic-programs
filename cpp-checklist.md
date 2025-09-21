@@ -1,302 +1,207 @@
-# C++ Basic Programs Checklist
+# C++ Programs Checklist
 
-- [done] Program 1: Hello World
+## 50 Basic Programs
+
+- [ ] Program 1: Hello World
   - Dry run/Notes:
-  
 - [ ] Program 2: Basic Input/Output
   - Dry run/Notes:
-  
-- [ ] Program 3: Sum of Two Numbers
+- [ ] Program 3: Add Two Numbers
   - Dry run/Notes:
-  
-- [ ] Program 4: Factorial of a Number
+- [ ] Program 4: Swap Two Numbers
   - Dry run/Notes:
-  
-- [ ] Program 5: Fibonacci Series
+- [ ] Program 5: Find Largest Number
   - Dry run/Notes:
-  
-- [ ] Program 6: Prime Number Check
+- [ ] Program 6: Find Smallest Number
   - Dry run/Notes:
-  
-- [ ] Program 7: Array Operations
+- [ ] Program 7: Even or Odd
   - Dry run/Notes:
-  
-- [ ] Program 8: String Reversal
+- [ ] Program 8: Prime Number Check
   - Dry run/Notes:
-  
-- [ ] Program 9: Palindrome Check
+- [ ] Program 9: Factorial of a Number
   - Dry run/Notes:
-  
-- [ ] Program 10: Sorting Algorithms
+- [ ] Program 10: Fibonacci Series
   - Dry run/Notes:
-  
-- [ ] Program 11: Matrix Addition
+- [ ] Program 11: Palindrome Number
   - Dry run/Notes:
-  
-- [ ] Program 12: Matrix Multiplication
+- [ ] Program 12: Armstrong Number
   - Dry run/Notes:
-  
-- [ ] Program 13: Bubble Sort
+- [ ] Program 13: Reverse a Number
   - Dry run/Notes:
-  
-- [ ] Program 14: Selection Sort
+- [ ] Program 14: Sum of Digits
   - Dry run/Notes:
-  
-- [ ] Program 15: Insertion Sort
+- [ ] Program 15: Count Digits
   - Dry run/Notes:
-  
-- [ ] Program 16: Binary Search
+- [ ] Program 16: GCD of Two Numbers
   - Dry run/Notes:
-  
-- [ ] Program 17: Linear Search
+- [ ] Program 17: LCM of Two Numbers
   - Dry run/Notes:
-  
-- [ ] Program 18: Merge Sort
+- [ ] Program 18: Leap Year Check
   - Dry run/Notes:
-  
-- [ ] Program 19: Quick Sort
+- [ ] Program 19: Simple Calculator
   - Dry run/Notes:
-  
-- [ ] Program 20: Linked List Operations
+- [ ] Program 20: Temperature Converter
   - Dry run/Notes:
-  
-- [ ] Program 21: Stack Implementation
+- [ ] Program 21: Area of Circle
   - Dry run/Notes:
-  
-- [ ] Program 22: Queue Implementation
+- [ ] Program 22: Area of Rectangle
   - Dry run/Notes:
-  
-- [ ] Program 23: Binary Tree Creation
+- [ ] Program 23: Area of Triangle
   - Dry run/Notes:
-  
-- [ ] Program 24: Binary Tree Traversal
+- [ ] Program 24: Convert Celsius to Fahrenheit
   - Dry run/Notes:
-  
-- [ ] Program 25: Graph Representation
+- [ ] Program 25: Find Power of a Number
   - Dry run/Notes:
-  
-- [ ] Program 26: Depth First Search
+- [ ] Program 26: Find Square Root
   - Dry run/Notes:
-  
-- [ ] Program 27: Breadth First Search
+- [ ] Program 27: Simple Interest
   - Dry run/Notes:
-  
-- [ ] Program 28: Hash Table Implementation
+- [ ] Program 28: Compound Interest
   - Dry run/Notes:
-  
-- [ ] Program 29: File Handling
+- [ ] Program 29: Display Multiplication Table
   - Dry run/Notes:
-  
-- [ ] Program 30: Exception Handling
+- [ ] Program 30: Print ASCII Value
   - Dry run/Notes:
-  
-- [ ] Program 31: Simple Calculator
+- [ ] Program 31: Vowel or Consonant
   - Dry run/Notes:
-  
-- [ ] Program 32: Temperature Converter
+- [ ] Program 32: Sum of Natural Numbers
   - Dry run/Notes:
-  
-- [ ] Program 33: Area of Circle
+- [ ] Program 33: Reverse a String
   - Dry run/Notes:
-  
-- [ ] Program 34: Area of Rectangle
+- [ ] Program 34: Check Palindrome String
   - Dry run/Notes:
-  
-- [ ] Program 35: Area of Triangle
+- [ ] Program 35: Count Vowels and Consonants
   - Dry run/Notes:
-  
-- [ ] Program 36: Leap Year Check
+- [ ] Program 36: Copy String
   - Dry run/Notes:
-  
-- [ ] Program 37: Odd or Even
+- [ ] Program 37: Concatenate Strings
   - Dry run/Notes:
-  
-- [ ] Program 38: Swap Numbers
+- [ ] Program 38: Compare Strings
   - Dry run/Notes:
-  
-- [ ] Program 39: Reverse an Integer
+- [ ] Program 39: Length of String
   - Dry run/Notes:
-  
-- [ ] Program 40: Sum of Digits
+- [ ] Program 40: Find Frequency of Character
   - Dry run/Notes:
-  
-- [ ] Program 41: Count Vowels and Consonants
+- [ ] Program 41: Sort Array Elements
   - Dry run/Notes:
-  
-- [ ] Program 42: GCD of Two Numbers
+- [ ] Program 42: Find Largest in Array
   - Dry run/Notes:
-  
-- [ ] Program 43: LCM of Two Numbers
+- [ ] Program 43: Find Smallest in Array
   - Dry run/Notes:
-  
-- [ ] Program 44: Decimal to Binary Conversion
+- [ ] Program 44: Sum of Array Elements
   - Dry run/Notes:
-  
-- [ ] Program 45: Binary to Decimal Conversion
+- [ ] Program 45: Remove Duplicate Array Elements
   - Dry run/Notes:
-  
-- [ ] Program 46: Find Largest Element in Array
+- [ ] Program 46: Insert Element in Array
   - Dry run/Notes:
-  
-- [ ] Program 47: Find Smallest Element in Array
+- [ ] Program 47: Delete Element from Array
   - Dry run/Notes:
-  
 - [ ] Program 48: Merge Two Arrays
   - Dry run/Notes:
-  
-- [ ] Program 49: Split Array in Half
+- [ ] Program 49: Matrix Addition
   - Dry run/Notes:
-  
-- [ ] Program 50: Rotate Array
+- [ ] Program 50: Matrix Multiplication
   - Dry run/Notes:
-  
-- [ ] Program 51: Count Frequency of Elements
+
+## 50 Mid-to-Advanced Programs
+
+- [ ] Program 51: Bubble Sort
   - Dry run/Notes:
-  
-- [ ] Program 52: Find Second Largest Element
+- [ ] Program 52: Selection Sort
   - Dry run/Notes:
-  
-- [ ] Program 53: Remove Duplicate Elements
+- [ ] Program 53: Insertion Sort
   - Dry run/Notes:
-  
-- [ ] Program 54: Sum of Even and Odd Numbers
+- [ ] Program 54: Merge Sort
   - Dry run/Notes:
-  
-- [ ] Program 55: Check Armstrong Number
+- [ ] Program 55: Quick Sort
   - Dry run/Notes:
-  
-- [ ] Program 56: Check Perfect Number
+- [ ] Program 56: Linear Search
   - Dry run/Notes:
-  
-- [ ] Program 57: Check Strong Number
+- [ ] Program 57: Binary Search
   - Dry run/Notes:
-  
-- [ ] Program 58: Find Factors of a Number
+- [ ] Program 58: Stack Implementation (Array)
   - Dry run/Notes:
-  
-- [ ] Program 59: Sum of Prime Numbers
+- [ ] Program 59: Queue Implementation (Array)
   - Dry run/Notes:
-  
-- [ ] Program 60: Count Prime Numbers
+- [ ] Program 60: Linked List (Singly)
   - Dry run/Notes:
-  
-- [ ] Program 61: Check if a Number is Palindrome
+- [ ] Program 61: Linked List (Doubly)
   - Dry run/Notes:
-  
-- [ ] Program 62: Sum of n Natural Numbers
+- [ ] Program 62: Stack using Linked List
   - Dry run/Notes:
-  
-- [ ] Program 63: Generate Multiplication Table
+- [ ] Program 63: Queue using Linked List
   - Dry run/Notes:
-  
-- [ ] Program 64: Check for Anagrams
+- [ ] Program 64: Circular Queue
   - Dry run/Notes:
-  
-- [ ] Program 65: Count Number of Digits
+- [ ] Program 65: Binary Tree Creation
   - Dry run/Notes:
-  
-- [ ] Program 66: Find Largest and Smallest Digit
+- [ ] Program 66: Binary Tree Traversal (Inorder, Preorder, Postorder)
   - Dry run/Notes:
-  
-- [ ] Program 67: Check if a String is a Substring
+- [ ] Program 67: Binary Search Tree (BST) Operations
   - Dry run/Notes:
-  
-- [ ] Program 68: Count Words in a String
+- [ ] Program 68: Graph Representation (Adjacency Matrix/List)
   - Dry run/Notes:
-  
-- [ ] Program 69: Remove Vowels from a String
+- [ ] Program 69: Depth First Search (Graph)
   - Dry run/Notes:
-  
-- [ ] Program 70: Reverse a String
+- [ ] Program 70: Breadth First Search (Graph)
   - Dry run/Notes:
-  
-- [ ] Program 71: Convert String to Uppercase
+- [ ] Program 71: Hash Table Implementation
   - Dry run/Notes:
-  
-- [ ] Program 72: Convert String to Lowercase
+- [ ] Program 72: File Handling (Read/Write)
   - Dry run/Notes:
-  
-- [ ] Program 73: Check for Subset
+- [ ] Program 73: Exception Handling
   - Dry run/Notes:
-  
-- [ ] Program 74: Find First Non-Repeated Character
+- [ ] Program 74: Class and Object Example
   - Dry run/Notes:
-  
-- [ ] Program 75: Create a Simple HTML Page
+- [ ] Program 75: Inheritance Example
   - Dry run/Notes:
-  
-- [ ] Program 76: Create a Simple JSON Object
+- [ ] Program 76: Polymorphism Example
   - Dry run/Notes:
-  
-- [ ] Program 77: Basic Web Scraping
+- [ ] Program 77: Abstraction Example
   - Dry run/Notes:
-  
-- [ ] Program 78: Basic Command Line Arguments
+- [ ] Program 78: Encapsulation Example
   - Dry run/Notes:
-  
-- [ ] Program 79: Simple GUI Application
+- [ ] Program 79: Operator Overloading
   - Dry run/Notes:
-  
-- [ ] Program 80: Basic Multithreading
+- [ ] Program 80: Function Overloading
   - Dry run/Notes:
-  
-- [ ] Program 81: Basic Networking
+- [ ] Program 81: Friend Function
   - Dry run/Notes:
-  
-- [ ] Program 82: Simple Database Connection
+- [ ] Program 82: Virtual Function
   - Dry run/Notes:
-  
-- [ ] Program 83: Basic XML Parsing
+- [ ] Program 83: Templates (Function/Class)
   - Dry run/Notes:
-  
-- [ ] Program 84: Simple Regular Expression
+- [ ] Program 84: STL - Vector Operations
   - Dry run/Notes:
-  
-- [ ] Program 85: Create a Basic API
+- [ ] Program 85: STL - Map Operations
   - Dry run/Notes:
-  
-- [ ] Program 86: Basic Error Handling
+- [ ] Program 86: STL - Set Operations
   - Dry run/Notes:
-  
-- [ ] Program 87: Create a Simple Game
+- [ ] Program 87: STL - Stack/Queue Operations
   - Dry run/Notes:
-  
-- [ ] Program 88: Basic Image Processing
+- [ ] Program 88: Lambda Expressions
   - Dry run/Notes:
-  
-- [ ] Program 89: Basic File Compression
+- [ ] Program 89: Smart Pointers
   - Dry run/Notes:
-  
-- [ ] Program 90: Basic Encryption/Decryption
+- [ ] Program 90: Multithreading Example
   - Dry run/Notes:
-  
-- [ ] Program 91: Create a Simple Chat Application
+- [ ] Program 91: Basic Networking (Socket)
   - Dry run/Notes:
-  
-- [ ] Program 92: Basic Unit Testing
+- [ ] Program 92: File Compression (Basic)
   - Dry run/Notes:
-  
-- [ ] Program 93: Basic Web Server
+- [ ] Program 93: Encryption/Decryption (Basic)
   - Dry run/Notes:
-  
-- [ ] Program 94: Basic Data Visualization
+- [ ] Program 94: Unit Testing (Simple Test Case)
   - Dry run/Notes:
-  
-- [ ] Program 95: Basic Machine Learning Model
+- [ ] Program 95: Simple Game (Tic-Tac-Toe)
   - Dry run/Notes:
-  
-- [ ] Program 96: Basic Web API Integration
+- [ ] Program 96: Simple Banking System
   - Dry run/Notes:
-  
-- [ ] Program 97: Basic Data Analysis
+- [ ] Program 97: Address Book Application
   - Dry run/Notes:
-  
-- [ ] Program 98: Basic Simulation
+- [ ] Program 98: Student Database Management
   - Dry run/Notes:
-  
-- [ ] Program 99: Basic Game Development
+- [ ] Program 99: Calendar Program
   - Dry run/Notes:
-  
-- [ ] Program 100: Basic Mobile App Development
+- [ ] Program 100: Mini Project (choose your own)
   - Dry run/Notes:
-  
