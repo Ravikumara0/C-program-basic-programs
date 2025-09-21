@@ -2,8 +2,13 @@
 
 ## 50 Basic Programs
 
-- [ ] Program 1: Hello World
-  - Dry run/Notes:
+- [Done] Program 1: Hello World
+  - Dry run/Notes: This is the program
+  - #include<bits/stdc++.h>
+  - using namespace std;
+  - int main(){
+  -   cout<<"hellow world"<<endl;
+  -   return 0;
 - [ ] Program 2: Basic Input/Output
   - Dry run/Notes:
 - [ ] Program 3: Add Two Numbers
